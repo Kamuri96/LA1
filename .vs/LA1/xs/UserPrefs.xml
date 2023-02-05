@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{5929EEED-D760-42DF-0A99-19A002E211E5}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Base/Friendly.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Base/Friendly.cs" Line="4" Column="5" />
+      <File FileName="Assets/Scripts/Player.cs" Line="38" Column="36" />
+      <File FileName="Assets/Scripts/GameManager.cs" Line="22" Column="11" />
+      <File FileName="Assets/Scripts/Healer.cs" Line="34" Column="39" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="LA1" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="Base" expanded="True">
+                  <Node name="Friendly.cs" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="ba93d0c9-7615-4a2f-8d6e-e7fb3c4b25f3" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
